@@ -1,4 +1,4 @@
-# DataFrame_CSV
+# DataFrame_Pandas
 1 Read any data source into pandas DataFrame: CSV, JSON, Excel file, HTML table, embedded sklearn dataset. Describe your data, what each column means, what type (categorical, real, integer, binary) the column is, if necessary, decode the values for categorical and binary attributes. In general, perform a "visual" analysis of your data.
 
 2 Do the following operations with dataframe (many operations can be done in more than one way, use all methods you know, look for/invent new ones) :
