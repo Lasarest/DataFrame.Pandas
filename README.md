@@ -36,5 +36,3 @@
 2.13 Output unique column values via .unique()
 
 2.14 Delete the current index and create a new index based on the new column that works best for it
-
-Translated with www.DeepL.com/Translator (free version)
